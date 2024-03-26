@@ -79,12 +79,12 @@
     <h2>Galeri (Galery)</h2>
     <div class="galery">
         <!-- Kumpulan foto-foto -->
-        <img src="LW1.jpg" alt="Foto 1">
-        <img src="LW2.jpg" alt="Foto 2">
-        <img src="LW3.jpg" alt="Foto 3">
-        <img src="LW4.jpg" alt="Foto 4">
-        <img src="LW5.jpg" alt="Foto 5">
-        <img src="LW6.jpg" alt="Foto 6">
+        <img src="LW1.jpeg" alt="Foto 1">
+        <img src="LW2.jpeg" alt="Foto 2">
+        <img src="LW3.jpeg" alt="Foto 3">
+        <img src="LW4.jpeg" alt="Foto 4">
+        <img src="LW5.jpeg" alt="Foto 5">
+        <img src="LW6.jpeg" alt="Foto 6">
     </div>
 </section>
 
